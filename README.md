@@ -1,4 +1,4 @@
-# Password Generator
+# Work day scheduler
 
 ## Deployment link
 
